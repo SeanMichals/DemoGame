@@ -1,2 +1,2 @@
 # DemoGame
-Creating a simple game
+Creating a simple game using Unity
